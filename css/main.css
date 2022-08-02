@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family: Georgia;
+  font-family: Georgia, serif;
   line-height: 1.5;
 }
 
@@ -17,7 +17,7 @@ body {
   max-width: 60em;
 }
 
-maijn {
+main {
   background-color: #f5f2f0;
   font-family: Georgia;
   padding: 1rem;
@@ -27,17 +27,17 @@ maijn {
 }
 
 h1 {
-font-family: "Denk One";
-color: #623b0c;
-margin-top: .25rem;
-margin-bottom: .25rem;
+  font-family: "Denk One";
+  color: #623b0c;
+  margin-top: .25rem;
+  margin-bottom: .25rem;
 }
 
 h2 {
   font-family: "Denk One";
   color: #623b0c;
   margin-bottom: .25rem;
-  margin-top: .25rem
+  margin-top: .25rem;
 }
 
 ol li {
